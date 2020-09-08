@@ -1,4 +1,6 @@
 # ImageGallery
+ImageGallery application is developed with ReactJS.
+
 Login to your gallery with your name and password.
 It will loads the images from an open source API and displays it in a grid.
 
